@@ -45,3 +45,6 @@ coverage/
 # Optional: if you use Next.js (soms handig bij React projecten)
 .next/
 out/
+
+# Firebase cache & emulator data
+.firebase/
